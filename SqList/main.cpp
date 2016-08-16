@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <malloc.h>
-#include <math.h>
 #define TRUE 1
 #define FALSE 0
 #define OK 1
